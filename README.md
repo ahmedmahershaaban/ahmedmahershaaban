@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Ahmed Maher
 
 #### Flutter Developer | Mobile Developer
-<img src="https://cdn.dribbble.com/userupload/3237940/file/original-41f04e81b55aee246a2effc92b63f620.mp4" alt ="video"  width ="400px"/>
+<img src="https://d15ciend3ae6iz.cloudfront.net/m3qp6b%2Fpreview%2F59308478%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1721094253&Signature=gymhOHF7OUrLiw944Dc9dw18Gp2Hxc7lvhWe--5UdcqOgJAuw~zloCo3B9xXRbJyvjYdpgUkG~J3L8~uryrub7BTFEyhJqyR2VBQbtL7Ah2izJDzfJsWOvjIu3qNxVz9VBnmdFq51SkJQ6pFSbpNYCvxohUmKcSQaD2kgUmoP8k7gaZJWBrzBzPdEYz7njcH72WLKmi7QYtMqMNiyx1uqngW2uiPgE7JUg3~mDnVH3wKGnCtwLm7RvBagwPP8SP-mHSWxTH8wAohWxcqzzpdjjWIBKBoZuXuXVR6LXxG6gORlp1Z0LSVao-2ZCeTg3ZXFMzoMzk-5p~Ix~VxGEldCQ__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" alt ="video"  width ="400px"/>
 
 - 👋 Hi, I’m @ahmedmahershaaban
 - 👀 I’m interested in developing innovative mobile applications using Flutter.
@@ -17,7 +17,7 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ahmedmahershaaban)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/in/ahmed-maher0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://kaggle.com/ahmedmaher00)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ahmedmahershaaban/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmahershaaban&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmahershaaban)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Skills:
