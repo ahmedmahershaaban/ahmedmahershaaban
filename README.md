@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Ahmed Maher
 
 #### Flutter Developer | Mobile Developer
+<img src="https://cdn.dribbble.com/userupload/3237940/file/original-41f04e81b55aee246a2effc92b63f620.mp4" alt ="video"  width ="400px"/>
 
 - 👋 Hi, I’m @ahmedmahershaaban
 - 👀 I’m interested in developing innovative mobile applications using Flutter.
@@ -11,6 +12,13 @@
 - ⚡ Fun fact: I enjoy exploring new technologies and tackling complex coding challenges.
 
 ---
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ahmedmahershaaban)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://linkedin.com/in/ahmed-maher0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg' alt='kaggle' height='40'>](https://kaggle.com/ahmedmaher00)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/ahmedmahershaaban/)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmahershaaban)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Skills:
 | **Mobile Application**   | **Backend**       | **Frontend**  | **Artificial Intelligence** | **Developer Tools**      | **Technologies/Frameworks** |
