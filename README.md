@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning advanced state management techniques and backend integration for building high-performance apps.
 - 💞️ I’m looking to collaborate on impactful Flutter projects.
 - 📫 How to reach me: [Email](mailto:ahmedmaher13579@outlook.com) | [LinkedIn](https://www.linkedin.com/in/ahmed-maher0/)
+- 📃 My Resume: [Resume](https://drive.google.com/file/d/1UuGg5SlH9x1a9_ajpZB5qX2gP8IEM7yj/view?usp=sharing)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy exploring new technologies and tackling complex coding challenges.
 
